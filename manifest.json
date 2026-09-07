@@ -1,7 +1,7 @@
 {
   "id": "dossier",
   "name": "Dossier",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "minAppVersion": "1.13.7",
   "description": "Renders the docs vault in Obsidian's reading view: refined typography, tables, callouts, code and task-lists; mermaid re-rendered as framed ELK diagram cards; a rich-viz dashboard block; a document masthead, table-of-contents and floating section-nav; and a theme switcher. Applies vault-wide in reading view; never modifies your notes.",
   "author": "AI Engineering",
